@@ -1,5 +1,5 @@
 {
-  "name": "module-a",
+  "name": "mjhenkes-module-a",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mjhenkes/module-A#readme",
   "dependencies": {
-    "module-c": "https://github.com/mjhenkes/module-C/archive/1.0.0.tar.gz",
-    "module-b": "https://github.com/mjhenkes/module-B/archive/1.0.1.tar.gz"
+    "mjhenkes-module-c": "^1.0.0",
+    "mjhenkes-module-b": "^1.0.0"
   }
 }
